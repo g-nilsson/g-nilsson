@@ -13,9 +13,10 @@
   <summary>🕹️ Award winning games</summary>
 <div>
   <samp>
-    <h2 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498">Queen's Revolver</a></h2>
+    <h2 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h2>
     <div align="center">
-      <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a>
+      <p><a href="https://gamejolt.com/games/Queensrevolver/449498">
+      <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a></p>
     </div>
     <p align="center">
       <br/>
