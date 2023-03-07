@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_of_life.gif"
-       alt="snake" /></a>
+  <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_of_life.gif"></a>
 </div>
 
 -----
@@ -14,7 +13,10 @@
   <summary>🕹️ Award winning games</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498">Queen's Revolver</a></h2>
+    <div align="center">
+      <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a>
+    </div>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
