@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_of_life.gif"
        alt="snake" /></a>
 </div>
 
