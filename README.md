@@ -8,9 +8,9 @@
 </div>
 
 -----
-<h4> Projects </h4>
+<h1> Projects </h1>
 <details>
-  <summary>🕹️ Award winning games</summary>
+  <summary><h2>🕹️ Award winning games</h2></summary>
 <div>
   <samp>
     <h1 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h1>
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>👨‍💻 Miscellanious coding projects & assignments</summary>
+  <summary><h2>👨‍💻 Miscellanious coding projects & assignments</h2></summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
