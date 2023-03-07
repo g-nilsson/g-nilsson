@@ -25,12 +25,12 @@
   
     
   <ul>
-  <li>Won "Best Game" in Swedish game development competition</li>
+  <li>Won "Best Game" and "Best Music" in Swedish game development competition</li>
   <li>A few youtube gameplay videos:  <a href="https://youtu.be/ewOnlu_CN-Q" target="_blank">A🎬</a> <a href="https://www.youtube.com/watch?v=vKIY1BO49lg" target="_blank">B🎬</a>  <a href="https://youtu.be/vasAUEp9urM" target="_blank">C🎬</a></li>
   <li>Reviews from players:</li>
     <ul>
-      <li>Black tea</li>
-      <li>Green tea</li>
+      <li>"This is one of the most unique and fun games that I have played in such a long time!" - @CriticalPlays</li>
+      <li>"The great beginnings of a potentially amazing game, this! There's so much to love about the whole idea" - @MichaelBlighe</li>
     </ul>
 </ul>
   
@@ -44,7 +44,15 @@
   <div align="center">
     <em><a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
   </div>
-  
+  <li>Won "Best Cutscene" in Swedish game development competition</li>
+  <li>A few youtube gameplay videos:  <a href="https://youtu.be/kNH64uyr7qo" target="_blank">A🎬</a> <a href="https://youtu.be/h1ddyKeTc5c" target="_blank">B🎬</a>  <a href="https://www.youtube.com/watch?v=BPKM5SMYoyU&t=5s" target="_blank">C🎬</a></li>
+  <li>~20 thousand views on Game Jolt</li>
+  <li>Reviews from players:</li>
+    <ul>
+      <li>"This is one of the most unique and fun games that I have played in such a long time!" - @CriticalPlays</li>
+      <li>"The great beginnings of a potentially amazing game, this! There's so much to love about the whole idea" - @MichaelBlighe</li>
+    </ul>
+</ul>
     
   <samp>
     <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
