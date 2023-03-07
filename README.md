@@ -10,7 +10,7 @@
 -----
 <h1> Projects </h1>
 <details>
-  <summary><h2>🕹️ Award winning games</h2></summary>
+  <summary><h2>🕹️ Award winning games</h2></a></summary>
 <div>
   <samp>
     <h1 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h1>
