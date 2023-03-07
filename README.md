@@ -13,36 +13,33 @@
   <summary>🕹️ Award winning games</summary>
 <div>
   <samp>
-    <h2 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h2>
+    <h1 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h1>
     <div align="center">
       <p><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">
       <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a></p>
     </div>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
   </samp>
+  <em align="left"><a href="https://gamejolt.com/get/build?game=449498&build=837056" target="_blank">Download game<br></a></em>
+  
+  
+  <samp>
+    <h1 align="center"><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">Winter's Grasp</a></h1>
+      <div align="center">
+        <p><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">
+        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/winters_grasp.png" width="800" height="200"></a></p>
+      </div>
+  </samp>
+  <em align="left"><a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
+
+  <samp>
+    <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
+      <div align="center">
+        <p><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">
+        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800" height="260"></a></p>
+      </div>
+  </samp>
+  <em align="left"><a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>  
+  
 </div>
 </details>
 
