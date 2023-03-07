@@ -46,7 +46,7 @@
   </div>
   <li>Won "Best Cutscene" in Swedish game development competition</li>
   <li>A few youtube gameplay videos:  <a href="https://www.youtube.com/watch?v=kNH64uyr7qo" target="_blank">A🎬</a> <a href="https://youtu.be/h1ddyKeTc5c" target="_blank">B🎬</a>  <a href="https://www.youtube.com/watch?v=BPKM5SMYoyU&t=5s" target="_blank">C🎬</a></li>
-  <li>~20 thousand views on Game Jolt along with reviews from players:</li>
+  <li>20 thousand views on Game Jolt along with reviews from players:</li>
     <ul>
       <li>"just found this game and thought it had alot of charm, u guys did a great job on this" - @TMCdragon</li>
       <li>"When I played the prototype, I could tell it had potential. And now it shows through this demo! I love all the new things that were added, it definitely gives the game more life. Great job!" - @AprilPandaPlays</li>
