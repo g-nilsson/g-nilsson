@@ -19,8 +19,20 @@
       <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a></p>
     </div>
   </samp>
-  <em align="left"><a href="https://gamejolt.com/get/build?game=449498&build=837056" target="_blank">Download game<br></a></em>
+  <div align="center">
+    <em> <a href="https://gamejolt.com/get/build?game=449498&build=837056" target="_blank">Download game<br></a></em>
+  </div>
   
+    
+  <ul>
+  <li>Won "Best Game" in Swedish game development competition</li>
+  <li>A few youtube gameplay videos:  <a href="https://youtu.be/ewOnlu_CN-Q" target="_blank">A🎬</a> <a href="https://www.youtube.com/watch?v=vKIY1BO49lg" target="_blank">B🎬</a>  <a href="https://youtu.be/vasAUEp9urM" target="_blank">C🎬</a></li>
+  <li>Reviews from players:</li>
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+</ul>
   
   <samp>
     <h1 align="center"><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">Winter's Grasp</a></h1>
@@ -29,8 +41,11 @@
         <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/winters_grasp.png" width="800" height="200"></a></p>
       </div>
   </samp>
-  <em align="left"><a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
-
+  <div align="center">
+    <em><a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
+  </div>
+  
+    
   <samp>
     <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
       <div align="center">
@@ -38,7 +53,10 @@
         <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800" height="260"></a></p>
       </div>
   </samp>
-  <em align="left"><a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>  
+  <div align="center">
+    <em><a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>
+  </div>
+   
   
 </div>
 </details>
