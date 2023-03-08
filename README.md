@@ -25,7 +25,7 @@
   
     
   <ul>
-  <li>Won "Best Game" and "Best Music" in Swedish game development competition. ()</li>
+  <li>Won "Best Game" and "Best Music" in Swedish game development competition. (+200 teams, 64 qualify, 1 get "Best game")</li>
   <li>A few youtube gameplay videos:  <a href="https://youtu.be/ewOnlu_CN-Q" target="_blank">A🎬</a> <a href="https://www.youtube.com/watch?v=vKIY1BO49lg" target="_blank">B🎬</a>  <a href="https://youtu.be/vasAUEp9urM" target="_blank">C🎬</a></li>
   <li>Reviews from players:</li>
     <ul>
