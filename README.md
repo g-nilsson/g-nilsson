@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/waving.gif">, I'm Gabriel</h1>
-<h4>🧑‍🏫 Programming Tutor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Game Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Submarine System Technician<br><br>💱Fintech Start-up Co-founder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 a passionate learner<br><br>📝 Read more in my <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/Resume_Gabriel.pdf" target="_blank">resume</a> and on <a href="https://www.linkedin.com/in/gab-nil/" target="_blank">LinkedIn</a></h4>
+<h4>🧑‍🏫 Programming Tutor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Game Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Submarine System Technician<br><br>💱Fintech Start-up Co-founder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 a Passionate Learner<br><br>📝 Read more in my <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/Resume_Gabriel.pdf" target="_blank">resume</a> and on <a href="https://www.linkedin.com/in/gab-nil/" target="_blank">LinkedIn</a></h4>
 </div>
 
 <div align="center">
@@ -63,6 +63,7 @@
   <div align="center">
     <em><a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>
   </div>
+  <li>Won "Best newbie" in Swedish game development competition</li>
    
   
 </div>
