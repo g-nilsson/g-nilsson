@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary><h2>👨‍💻 miscellaneous coding projects & assignments</h2></summary>
+  <summary><h2>👨‍💻 Miscellaneous coding projects</h2></summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
