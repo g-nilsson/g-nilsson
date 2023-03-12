@@ -74,6 +74,8 @@
 <div>
 <samp>
   <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Traveling%20salesman%20and%20disease%20modeling" target="_blank">Traveling salesman problem & disease modeling</a></h3>
+  <li>Used the Ant Colony Optimization (ACO) algorithm to find optimal solutions to the Traveling Salesman (TS) problem.</li>
+  <li>The code is well formatted and deeply discussed <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/Traveling%20salesman%20and%20disease%20modeling/Traveling%20salesman%20and%20disease%20modeling.ipynb" target="_blank">here</a>.</li>
 </samp>
 </div>
 </details>
