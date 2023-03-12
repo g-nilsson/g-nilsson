@@ -1,0 +1,28 @@
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\gabriel.nilsson3\Documents\Visual Studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\gabri\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\gabri\Desktop\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\gabri\Desktop\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\gabri\Desktop\Desktop\Coding\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\gabri\Desktop\_\Coding\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
