@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/waving.gif">, I'm Gabriel</h1>
-<h4>🧑‍🏫 Programming Tutor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Game Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Submarine System Technician<br><br>💱Fintech Start-up Co-founder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 a Passionate Learner<br><br>📝 Read more in my <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/Resume_Gabriel.pdf" target="_blank">resume</a> and on <a href="https://www.linkedin.com/in/gab-nil/" target="_blank">LinkedIn</a></h4>
+<h4>🧑‍🏫 Programming Tutor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Game Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Submarine System Technician<br><br>💱Fintech Start-up Co-founder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 Passionate Learner<br><br>📝 Read more in my <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/Resume_Gabriel.pdf" target="_blank">resume</a> and on <a href="https://www.linkedin.com/in/gab-nil/" target="_blank">LinkedIn</a></h4>
 </div>
 
 <div align="center">
