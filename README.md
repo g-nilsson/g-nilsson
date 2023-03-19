@@ -76,7 +76,7 @@
 <samp>
   <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Traveling%20salesman%20and%20disease%20modeling" target="_blank">Traveling salesman problem & disease modeling (2021) (Python)</a></h3>
   <ul>
-  <li>Used the Ant Colony Optimization (ACO) algorithm to find optimal solutions to the Traveling Salesman (TS) problem</li>
+  <li>Used an Ant Colony Optimization (ACO) algorithm to find optimal solutions to the Traveling Salesman problem</li>
   <li>Modelled disease spread both analytically and through simulation (same project)</li>
     <ul>
       <li>See the code and discussion <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/Traveling%20salesman%20and%20disease%20modeling/Traveling%20salesman%20and%20disease%20modeling.pdf" target="_blank">here</a>.</li>
@@ -86,7 +86,7 @@
   
   <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/sudoku" target="_blank">Logical sudoku solver (2018) (C#)</a></h3>
   <ul>
-  <li>This was a personal challenge in my first year of programming. I made it in a weekend to see if I could write an algorithm that uses human logic instead of brute-force to solve sodukos.</li>
+  <li>This was a personal challenge in my first year of programming. I made it in a weekend to see if I could write an algorithm that uses human logic instead of brute-force to solve sudokus.</li>
   <li>Has much higher solving speed than brute force approaches since no trial and error is used</li>
     <ul>
       <li>See the code <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/sudoku/sudoku/Program.cs" target="_blank">here</a>.</li>
