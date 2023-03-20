@@ -82,7 +82,8 @@
       <li>See the code and discussion <a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Traveling%20salesman%20and%20disease%20modeling" target="_blank">here</a>.</li>
     </ul>
  </ul>
-          <img width="260" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/ACO.gif"></a>
+ <i>Here is a gif visualizing the ACO solving process </i><br>
+  <img width="260" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/ACO.gif"></a>
    
   
   <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/sudoku" target="_blank">Logical sudoku solver (2018) (C#)</a></h3>
