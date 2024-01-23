@@ -74,7 +74,7 @@
   <summary><h2>👨‍💻 Miscellaneous coding projects</h2></summary>
 <div>
 <samp>
-  <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Traveling%20salesman%20and%20disease%20modeling" target="_blank">Traveling salesman problem & disease modeling (2021) (Python)</a></h3>
+  <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Ant%20Colony%20Optimization%20for%20The%20Traveling%20salesman%20Problem" target="_blank">Traveling salesman problem & disease modeling (2021) (Python)</a></h3>
   <ul>
   <li>Used an Ant Colony Optimization (ACO) algorithm to find optimal solutions to the Traveling Salesman problem</li>
   <li>Modelled disease spread both analytically and through simulation (same project)</li>
