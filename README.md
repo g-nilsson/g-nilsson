@@ -86,6 +86,28 @@
         <p>Here is a gif visualizing the ACO solving process </p>
         <img width="260" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/ACO.gif" alt="ACO gif">
   </div>
+
+
+
+  <h3><a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">Simulating Lightning - a Dielectric Breakdown Model (2023) (Python)</a></h3>
+  <ul>
+  <li> Simulated dielectric breakdown (lightning) using a Laplacian growth model, calculating the electric potential in the air given the current lightning structure</li>
+    <ul>
+      <li>See the code <a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">here</a>.</li>
+    </ul>
+ </ul>
+  <div align="center">
+        <p>A simulated lightning strike and the electric potential in the air</p>
+        <img width="260" src="https://github.com/g-nilsson/g-nilsson/blob/main/assets/DBM/vertical_lightning.gif" alt="Lightning gif">
+  </div>
+  <div align="center">
+        <p>A simulated lightning strike with a lightning rod at x=50</p>
+        <img width="260" src="https://github.com/g-nilsson/g-nilsson/blob/main/assets/DBM/lightning_rod.gif" alt="Lightning rod gif">
+  </div>
+  <div align="center">
+        <p>A simulated lightning with local updating for electric field, only updating globally at certain intervals</p>
+        <img width="260" src="https://github.com/g-nilsson/g-nilsson/blob/main/assets/DBM/vertical_lightning_optimized.gif" alt="Optimized lightning gif">
+  </div>
   
   <h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/sudoku" target="_blank">Logical sudoku solver (2018) (C#)</a></h3>
   <ul>
