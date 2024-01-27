@@ -105,7 +105,7 @@
         <img width="260" src="https://github.com/g-nilsson/g-nilsson/blob/main/assets/DBM/lightning_rod.gif" alt="Lightning rod gif">
   </div>
   <div align="center">
-        <p>A simulated lightning with local updating for electric field, only updating globally at certain intervals</p>
+        <p>The simulation with optimized electric field calculations</p>
         <img width="260" src="https://github.com/g-nilsson/g-nilsson/blob/main/assets/DBM/vertical_lightning_optimized.gif" alt="Optimized lightning gif">
   </div>
   
