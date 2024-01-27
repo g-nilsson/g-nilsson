@@ -20,7 +20,7 @@
     </div>
   </samp>
   <div align="center">
-    <em> <a href="https://gamejolt.com/get/build?game=449498&build=837056" target="_blank">Download game<br></a></em>
+    <em> <a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Game Website</a> - <a href="https://gamejolt.com/get/build?game=449498&build=837056" target="_blank">Download game</a><br></em>
   </div>
   
     
@@ -42,7 +42,7 @@
       </div>
   </samp>
   <div align="center">
-    <em><a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
+    <em><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">Game Website</a> - <a href="https://gamejolt.com/get/build?game=378067&build=697195" target="_blank">Download game<br></a></em>
   </div>
   <ul>
   <li>Won "Best Cutscene" in Swedish game development competition</li>
@@ -55,7 +55,7 @@
 </ul>
     
   <samp>
-    <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
+    <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Game Website</a> - <a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
       <div align="center">
         <p><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">
         <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800"></a></p>
