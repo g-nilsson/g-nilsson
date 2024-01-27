@@ -77,9 +77,8 @@
   <h3><a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">Solving the traveling salesman problem (TSP) with ant colony optimization (ACO) (2021) (Python)</a></h3>
   <ul>
   <li>Used an Ant Colony Optimization (ACO) algorithm to find optimal solutions to the Traveling Salesman problem</li>
-  <li>With comprehensive theoretical discussion</li>
     <ul>
-      <li>See the code and discussion <a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">here</a>.</li>
+      <li>See the code and theoretical discussion <a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">here</a>.</li>
     </ul>
  </ul>
  <i>Here is a gif visualizing the ACO solving process </i><br>
