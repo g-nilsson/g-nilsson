@@ -16,7 +16,7 @@
     <h1 align="center"><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">Queen's Revolver</a></h1>
     <div align="center">
       <p><a href="https://gamejolt.com/games/Queensrevolver/449498" target="_blank">
-      <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800" height="200"></a></p>
+      <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/queens_revolver.png" width="800"></a></p>
     </div>
   </samp>
   <div align="center">
@@ -38,7 +38,7 @@
     <h1 align="center"><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">Winter's Grasp</a></h1>
       <div align="center">
         <p><a href="https://gamejolt.com/games/winters-grasp/378067" target="_blank">
-        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/winters_grasp.png" width="800" height="200"></a></p>
+        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/winters_grasp.png" width="800"></a></p>
       </div>
   </samp>
   <div align="center">
@@ -58,7 +58,7 @@
     <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
       <div align="center">
         <p><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">
-        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800" height="260"></a></p>
+        <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800"></a></p>
       </div>
   </samp>
   <div align="center">
