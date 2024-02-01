@@ -55,14 +55,14 @@
 </ul>
     
   <samp>
-    <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Game Website</a> - <a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
+    <h1 align="center"><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Arrow of Artemis</a></h1>
       <div align="center">
         <p><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">
         <img  src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/game_imgs/AoA_Title.png" width="800"></a></p>
       </div>
   </samp>
   <div align="center">
-    <em><a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>
+    <em><a href="https://www.indiedb.com/games/arrow-of-artemis" target="_blank">Game Website</a> - <a href="https://www.indiedb.com/downloads/start/136752?referer=https%3A%2F%2Fwww.indiedb.com%2Fgames%2Farrow-of-artemis" target="_blank">Download game<br></a></em>
   </div>
   <li>Won "Best newbie" in Swedish game development competition</li>
    
