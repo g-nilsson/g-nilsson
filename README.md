@@ -93,7 +93,7 @@
   <ul>
   <li> Simulated dielectric breakdown (lightning) using a Laplacian growth model, calculating the electric potential in the air given the current lightning structure</li>
     <ul>
-      <li>See the code <a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">here</a>.</li>
+      <li>See the code <a href="https://g-nilsson.github.io/DBM.html" target="_blank">here</a>.</li>
     </ul>
  </ul>
   <div align="center">
