@@ -89,7 +89,7 @@
 
 
 
-  <h3><a href="https://g-nilsson.github.io/ACO_TSP.html" target="_blank">Simulating Lightning - a Dielectric Breakdown Model (2023) (Python)</a></h3>
+  <h3><a href="https://g-nilsson.github.io/DBM.html" target="_blank">Simulating Lightning - a Dielectric Breakdown Model (2023) (Python)</a></h3>
   <ul>
   <li> Simulated dielectric breakdown (lightning) using a Laplacian growth model, calculating the electric potential in the air given the current lightning structure</li>
     <ul>
