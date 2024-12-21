@@ -120,4 +120,4 @@
 </samp>
 </div>
 </details>
-<h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Work.pdf" target="_blank">🧮 Sample of numerical work</a></h2>
+<h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
