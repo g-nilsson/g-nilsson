@@ -121,3 +121,4 @@
 </div>
 </details>
 <h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
+<h2><a href="https://github.com/g-nilsson/g-nilsson/blob/main/assets/Spatial%20discretization%20and%20its%20impact%20on%20physical%20simulations.pdf" target="_blank">🌩️ Spatial discretization and its impact on physical simulations</a></h2>
