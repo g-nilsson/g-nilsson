@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/waving.gif">, I'm Gabriel</h1>
 <h4><i>Currently I am:</i><h4>
-<h4>MPhil student at the University of Cambridge, studying Scientific Computing and HPC<h4>
+<h4><img width="35" src="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/cambridge_shield.png"> MPhil student at the University of Cambridge, studying Scientific Computing and HPC<h4>
 <h4><i>Previously I have been:</i><h4>
 <h4>👨‍🏫 Programming Tutor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Submarine System Technician<br><br>🎮 Game Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💱Fintech Start-up Co-founder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌲 Tree planter<br><br>📝 Read more in my <a href="https://github.com/g-nilsson/gabriel_nilsson/blob/main/assets/Resume_Gabriel.pdf" target="_blank">resume</a> and on <a href="https://www.linkedin.com/in/gab-nil/" target="_blank">LinkedIn</a></h4>
 </div>
