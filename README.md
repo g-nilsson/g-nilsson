@@ -19,6 +19,7 @@
 <h2><a href="https://github.com/g-nilsson/g-nilsson/blob/main/MPhil_dissertation.pdf" target="_blank">Coherent Mesh Representation of Unstructured Polyhedral Meshes</a></h2>
 
 <h1> Projects </h1>
+<h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
 <details>
   <summary><h2>🕹️ Award-winning Games</h2></a></summary>
 <div>
@@ -130,4 +131,3 @@
 </samp>
 </div>
 </details>
-<h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
