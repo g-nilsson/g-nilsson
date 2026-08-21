@@ -15,8 +15,11 @@
 
 -----
 <h1> Research </h1>
-<h2><a href="https://github.com/g-nilsson/g-nilsson/blob/main/Spatial_discretization_and_its_impact_on_physical_simulations.pdf" target="_blank">Spatial discretization and its impact on physical simulations</a></h2>
 <h2><a href="https://github.com/g-nilsson/g-nilsson/blob/main/MPhil_dissertation.pdf" target="_blank">Coherent Mesh Representation of Unstructured Polyhedral Meshes</a></h2>
+--- Mphil thesis, University of Cambridge, supervised by prof Hrvoje Jasak 
+<h2><a href="https://github.com/g-nilsson/g-nilsson/blob/main/Spatial_discretization_and_its_impact_on_physical_simulations.pdf" target="_blank">Spatial discretization and its impact on physical simulations</a></h2>
+--- Undergraduate thesis, Minerva University, supervised by prof Lucas Tambasco 
+
 
 <h1> Projects </h1>
 <h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
