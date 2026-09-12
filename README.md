@@ -19,7 +19,11 @@
 <p>&emsp;&emsp;Mphil thesis, University of Cambridge, supervised by prof Hrvoje Jasak </p>
 <h3><a href="https://github.com/g-nilsson/g-nilsson/blob/main/Spatial_discretization_and_its_impact_on_physical_simulations.pdf" target="_blank">Spatial discretization and its impact on physical simulations</a>  (2025)</h3>
 <p>&emsp;&emsp;Undergraduate thesis, Minerva University, supervised by prof Lucas Tambasco</p>
-
+<h2> Abridged Assignments </h2>
+<h3><a href="https://github.com/g-nilsson/g-nilsson/blob/main/abridged_eigenvalue_assignment.pdf" target="_blank">Eigen-value Calculation for Sparse Matrices</a>  (2026)</h3>
+<p>&emsp;&emsp;Abridged version of assignment for MPhil in Scientific Computing, University of Cambridge</p>
+<h3><a href="https://github.com/g-nilsson/g-nilsson/blob/main/abridged_cuda_assignment.pdf" target="_blank">Acceleration of CFD using CUDA</a>  (2026)</h3>
+<p>&emsp;&emsp;Abridged version of assignment for MPhil in Scientific Computing, University of Cambridge</p>
 
 <h1> Projects </h1>
 <h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">🧮 Sample of Numerical Work</a></h2>
