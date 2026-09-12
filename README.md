@@ -25,7 +25,7 @@
 <p>&emsp;&emsp;Abridged version of assignment for MPhil in Scientific Computing, University of Cambridge</p>
 <h3><a href="https://github.com/g-nilsson/g-nilsson/blob/main/abridged_cuda_assignment.pdf" target="_blank">Acceleration of CFD using CUDA</a>  (2026)</h3>
 <p>&emsp;&emsp;Abridged version of assignment for MPhil in Scientific Computing, University of Cambridge</p>
-<h2><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">Samples of Numerical Work</a> (2022-25)</h2>
+<h3><a href="https://github.com/g-nilsson/gabriel_nilsson/tree/main/Sample_of_Numerical_Work.pdf" target="_blank">Samples of Numerical Work</a> (2022-25)</h3>
 <p>&emsp;&emsp;Abridged version of assignment for MPhil in Scientific Computing, University of Cambridge</p>
 
 <h1> Projects </h1>
